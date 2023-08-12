@@ -1,7 +1,10 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+# MetaVerse Madness 
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+## Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+### [Live Site](https://project-metaverse-mu.vercel.app/)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+![Chat Application](https://www.linkpicture.com/q/Metaverse.png)
+
+## A Big Shoutout to [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) For the amazing tutorial.
+
